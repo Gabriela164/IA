@@ -1,23 +1,22 @@
-# Inteligencia Artificial (IA)
+# Inteligencia Artifical (IA)
 
-Bienvenido al proyecto de Inteligencia Artificial. Este proyecto está diseñado para explorar y desarrollar soluciones innovadoras utilizando tecnologías de IA.
+![Gatito](https://media1.tenor.com/m/uVFPGoKskQAAAAAC/cat-inception.gif)
 
-## Últimas Actualizaciones
+Bienvenido al repositorio que contiene todas las prácticas y proyectos realizados en el curso de Inteligencia Artificial 2024-1.
 
-- **Nueva Actualización:** Prueba desde Visual Studio Code. Hemos implementado mejoras significativas en el flujo de trabajo y la integración con herramientas de desarrollo.
+## Practicas realizas 
+ 1. **Termitas**
+ 2. **Gatos**
+ 3. **Algoritmos Geneticos**
+ 4. **Laberintos**
+ 5. **Recocido Simulado**
+ 6. **Pakuman**
+ 7. **Perceptron**
+ 8. **Regresión logistica**
+ 9. **Red Neuronal**
+ 10. **Factores**
+ 11. **Inferencia usando factores**
+ 12. **Cadenas de Markov**
 
-## Comenzando
-
-Para comenzar a trabajar en este proyecto, sigue estos pasos:
-
-1. Clona el repositorio a tu máquina local.
-2. Instala las dependencias necesarias utilizando `npm install` o `pip install`, dependiendo de tu entorno de desarrollo.
-3. Explora la documentación para entender mejor el proyecto.
-
-## Contribuir
-
-Si estás interesado en contribuir a este proyecto, por favor revisa las guías de contribución. Estamos abiertos a recibir ayuda en forma de correcciones de errores, nuevas características, o mejoras en la documentación.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - ve el archivo `LICENSE` para más detalles.
+## Alumna 
+* Lopez Diego Gabriela 318243485
