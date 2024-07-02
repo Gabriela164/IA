@@ -2,7 +2,7 @@
 
 ![Gatito](https://media1.tenor.com/m/uVFPGoKskQAAAAAC/cat-inception.gif)
 
-Bienvenido al repositorio que contiene todas las prácticas y proyectos realizados en el curso de Inteligencia Artificial 2024-1.
+Bienvenid@ al repositorio que contiene todas las prácticas y proyectos realizados en el curso de Inteligencia Artificial 2024-1.
 
 ## Practicas realizas 
  1. **Termitas**
