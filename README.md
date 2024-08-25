@@ -19,4 +19,4 @@ Bienvenid@ al repositorio que contiene todas las prácticas y proyectos realizad
  12. **Cadenas de Markov**
 
 ## Alumna 
-* Lopez Diego Gabriela 318243485
+* Lopez Diego Gabriela 
